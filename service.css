@@ -95,9 +95,13 @@ h3 {
     }
     #firstParagraphe{
       width: 420px;
+      margin-left: 40px;
     }
     button{
       margin-bottom: 10px;
+    }
+    #bdoyPosition{
+      margin-left: 40px;
     }
     .footer{
       display: block;

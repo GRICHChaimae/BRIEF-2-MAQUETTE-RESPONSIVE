@@ -96,6 +96,9 @@ h3 {
     #firstParagraphe{
       width: 420px;
     }
+    button{
+      margin-bottom: 10px;
+    }
     .footer{
       display: block;
       flex-direction: row;

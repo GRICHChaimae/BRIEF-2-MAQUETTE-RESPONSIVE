@@ -115,6 +115,9 @@ h3 {
     margin-left: 15px;
     margin-right: 15px;
   }
+  #bdoyPosition{
+    margin-left: 40px;
+  }
   .footer{
     display: block;
     flex-direction: row;
